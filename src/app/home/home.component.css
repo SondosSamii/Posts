@@ -1,0 +1,78 @@
+h4 {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h4 span {
+  border-bottom: 2px solid #dc4734;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+h3 span {
+  font-size: 12px;
+  font-weight: normal;
+  padding-top: 10px;
+}
+
+.img-box {
+  position: relative;
+}
+
+.img-border {
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  border: 10px solid rgba(220, 71, 52, 0.25);
+}
+
+.middle-img {
+  position: absolute;
+  left: 87.5px;
+  top: 87.5px;
+}
+
+.page-body .col-3, .page-body .col-7, .page-body .col-2, .page-body .col-9 {
+  padding: 10px 0px;
+}
+
+.page-img {
+  margin-left: 15px;
+  width: 75%;
+}
+
+.page-title {
+  margin: 10px 0px 0px 20px;
+}
+
+.heart {
+  margin-top: 10px;
+}
+
+input {
+  background-color: #EEE;
+  height: 40px;
+}
+
+.post-btn {
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #dc4734;
+  padding: 0px 25px;
+  height: 40px;
+  position: absolute;
+  right: 0;
+  z-index: 99;
+}
+
+.post-body {
+  cursor: pointer;
+}
+/*# sourceMappingURL=home.component.css.map */
