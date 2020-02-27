@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { ApiService } from '../api.service';
 import { Title } from '@angular/platform-browser';
-import { $ } from 'protractor';
 
 @Component({
   selector: 'app-post',
