@@ -8,6 +8,7 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=SondosSamii_Posts&metric=bugs)](https://sonarcloud.io/dashboard?id=SondosSamii_Posts)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=SondosSamii_Posts&metric=code_smells)](https://sonarcloud.io/dashboard?id=SondosSamii_Posts)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SondosSamii_Posts&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=SondosSamii_Posts)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=SondosSamii_Posts&metric=sqale_index)](https://sonarcloud.io/dashboard?id=SondosSamii_Posts)
 
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=SondosSamii_Posts&metric=ncloc)](https://sonarcloud.io/dashboard?id=SondosSamii_Posts)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=SondosSamii_Posts&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=SondosSamii_Posts)
