@@ -26,6 +26,7 @@
     "angular-cli-ghpages": "^0.6.2",
     "bootstrap": "^4.4.1",
     "bufferutil": "^4.0.1",
+    "elliptic": "^6.5.3",
     "jquery": "^3.5.1",
     "lodash": "^4.17.19",
     "minimist": "^1.2.3",
