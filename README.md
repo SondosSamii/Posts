@@ -17,7 +17,7 @@ Deployed Here: **https://sondossamii.github.io/Posts/**
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=SondosSamii_Posts&metric=ncloc)](https://sonarcloud.io/dashboard?id=SondosSamii_Posts)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=SondosSamii_Posts&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=SondosSamii_Posts)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
 
 ## Development server
 
