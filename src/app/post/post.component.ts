@@ -38,9 +38,9 @@ export class PostComponent implements OnInit {
 
     this._ApiService.getComments().subscribe((data) => {
       this.comments = data;
-      for (let i = 0; i < this.comments.length; i++) {
-        if (this.comments[i].postId == this.postId) {
-          this.postComments.push(this.comments[i].body);
+      for (const comment of this.comments) {
+        if (comment.postId == this.postId) {
+          this.postComments.push(comment.body);
         }
       }
     });
