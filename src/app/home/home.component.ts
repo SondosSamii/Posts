@@ -19,7 +19,6 @@ export class HomeComponent implements OnInit {
 
     this._ApiService.getPhotos().subscribe((data) => {
       this.photos = data;
-      // console.log(this.photos);
     });
 
     this._ApiService.getPosts().subscribe((data) => {
